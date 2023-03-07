@@ -2,7 +2,7 @@ asgiref==3.6.0
 boto==2.49.0
 colorama==0.4.6
 colorlog==6.7.0
-Django==4.1.7
+Django==3.2.18
 django-markwhat==1.6.2
 gunicorn==20.1.0
 keyring==5.7.1
