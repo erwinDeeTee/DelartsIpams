@@ -1,1 +1,1 @@
-web: gunicorn ipalmssampleproject.wsgi
+web: gunicorn DelartsIpams.wsgi
